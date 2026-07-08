@@ -76,9 +76,9 @@ xampp/htdocs/
 Update the database credentials inside `config.php`.
 Example:
 ```php
-$host = "localhost";
-$user = "root";
-$password = "";
+$host = "Snax";
+$user = "****";
+$password = "****";
 $database = "lfis";
 ```
 
